@@ -1,3 +1,4 @@
-./data
-./minio
-./minio.log
+data
+minio
+minio.log
+minio.pid
